@@ -8,7 +8,6 @@ What makes this project unique? **It uses zero external assets.** * Every fruit,
 * Every sound effect is generated mathematically (DSP) using sine waves and noise generation.
 
 ![Gameplay Screenshot](gameplay.png)
-*(Note: Please ensure you upload a screenshot named 'gameplay.png' to a folder named 'screenshots' in your repo)*
 
 ## Features
 
