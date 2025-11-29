@@ -7,7 +7,7 @@ This project is a technical recreation of the popular game *Fruit Ninja*, built 
 What makes this project unique? **It uses zero external assets.** * Every fruit, particle, and UI element is drawn in real-time using geometric primitives.
 * Every sound effect is generated mathematically (DSP) using sine waves and noise generation.
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](gameplay.png)
 *(Note: Please ensure you upload a screenshot named 'gameplay.png' to a folder named 'screenshots' in your repo)*
 
 ## Features
