@@ -660,7 +660,7 @@ def game_loop():
                     # Gelişmiş parçacıklar
                     create_blade_particles(f.x, f.y, current_blade, particles)
 
-                    # --- YENİ: ALEV KILICI AHŞABI YAKAR ---
+                    # --- ALEV KILICI AHŞABI YAKAR ---
                     if current_blade == "fire":
                         draw_burn_mark(background_surface, f.x, f.y)
 
